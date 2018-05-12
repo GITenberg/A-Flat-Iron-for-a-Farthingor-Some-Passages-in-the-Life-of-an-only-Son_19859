@@ -1,0 +1,38 @@
+_repo: A-Flat-Iron-for-a-Farthingor-Some-Passages-in-the-Life-of-an-only-Son_19859
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wheelhouse, M. V. (Mary V.)
+    alias: Wheelhouse, Mary V.
+    gutenberg_agent_id: '8926'
+    url: http://www.gutenberg.org/2009/agents/8926
+covers:
+- cover_type: archival
+  image_path: 19859-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ewing, Juliana Horatia Gatty
+    aliases:
+    - Ewing, J.H.
+    - Ewing, J. H. (Juliana Horatia)
+    birthdate: 1841
+    deathdate: 1885
+    gutenberg_agent_id: '1803'
+    url: http://www.gutenberg.org/2009/agents/1803
+    wikipedia: http://en.wikipedia.org/wiki/Juliana_Horatia_Ewing
+description: ''
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2006-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19859'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcc 'PZ'
+title: A Flat Iron for a Farthing; or, Some Passages in the Life of an only Son
+url: http://www.gutenberg.org/ebooks/19859
