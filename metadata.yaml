@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1803
     wikipedia: http://en.wikipedia.org/wiki/Juliana_Horatia_Ewing
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19859#A-Flat-Iron-for-a-Farthingor-Some-Passages-in-the-Life-of-an-only-Son
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2006-11-18'
 gutenberg_type: Text
